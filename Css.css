@@ -1,0 +1,62 @@
+body{
+    background:
+            linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+            linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background-color:#708090;
+    background-size: 64px 128px
+}
+
+#casillas{
+    margin: 0 auto;
+    align-items:center;
+    width: 280px;
+}
+
+h1{
+    color: white;
+    border: 1px solid black;
+    text-align: center;
+    background: orange;
+    text-shadow: black;
+}
+
+.pj1{
+    color: blue;
+    border: 1px solid black;
+    text-align: center;
+    background: orange;
+    text-shadow: black;
+}
+
+.pj2{
+    color: red;
+    border: 1px solid black;
+    text-align: center;
+    background: orange;
+    text-shadow: black;
+}
+
+.casilla {
+    width: 90px;
+    height: 90px;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0;
+    border: 1px solid white;
+    background: orange;
+    color: transparent;
+}
+
+.rojo {
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+.btn{
+    width: 270px;
+    background: orange;
+    color: white;
+}
